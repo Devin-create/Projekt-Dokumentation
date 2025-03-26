@@ -5,3 +5,4 @@ Diese Seite beschreibt das Projekt **Projekt Dokumentation**. Hier findest du al
 ## Inhalt:
 - [Einrichtung](docs/setup.md)
 - [Funktionen](docs/features.md)
+- [Feedback geben](https://github.com/devin-create/projekt-dokumentation/issues)
